@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 2a6c5bf359b049d4093480c7c8d18c9e
+timeCreated: 1501487963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ATK RANGED 2 DX (3000x3000)_0
+    21300002: ATK RANGED 2 DX (3000x3000)_1
+    21300004: ATK RANGED 2 DX (3000x3000)_2
+    21300006: ATK RANGED 2 DX (3000x3000)_3
+    21300008: ATK RANGED 2 DX (3000x3000)_4
+    21300010: ATK RANGED 2 DX (3000x3000)_5
+    21300012: ATK RANGED 2 DX (3000x3000)_6
+    21300014: ATK RANGED 2 DX (3000x3000)_7
+    21300016: ATK RANGED 2 DX (3000x3000)_8
+    21300018: ATK RANGED 2 DX (3000x3000)_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 3008
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5184
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_1
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 5184
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_2
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 5184
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_3
+      rect:
+        serializedVersion: 2
+        x: 9024
+        y: 5184
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_4
+      rect:
+        serializedVersion: 2
+        x: 12032
+        y: 5184
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_6
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 2176
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_7
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 2176
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_8
+      rect:
+        serializedVersion: 2
+        x: 9024
+        y: 2176
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ATK RANGED 2 DX (3000x3000)_9
+      rect:
+        serializedVersion: 2
+        x: 12032
+        y: 2176
+        width: 3008
+        height: 3008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: Enemy
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
